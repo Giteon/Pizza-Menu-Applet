@@ -26,30 +26,30 @@ void setup()
   screen = "pizzaOrWings";
 
   /*Init. Main Screen Images*/
-  orderPizza = loadImage("orderPizza.png");
-  orderWings = loadImage("orderWings.png");
+  orderPizza = loadImage("data/orderPizza.png");
+  orderWings = loadImage("data/orderWings.png");
 
   /*Init. Misc Images*/
-  pizzaHutLogo = loadImage("pizzaHutLogo.png");
-  backArrow = loadImage("backArrow.PNG");
-  backArrowBig = loadImage("backArrowBig.PNG");
-  OR = loadImage("OR.png");
+  pizzaHutLogo = loadImage("data/pizzaHutLogo.png");
+  backArrow = loadImage("data/backArrow.PNG");
+  backArrowBig = loadImage("data/backArrowBig.PNG");
+  OR = loadImage("data/OR.png");
   /**/
 
   /*Init. Wings & Things Images*/
-  wingstreetWings = loadImage("wingstreetWings.png");
-  salads = loadImage("salads.png");
-  sandwiches = loadImage("sandwiches.png");
-  sides = loadImage("sides.png");
-  desserts = loadImage("desserts.png");
+  wingstreetWings = loadImage("data/wingstreetWings.png");
+  salads = loadImage("data/salads.png");
+  sandwiches = loadImage("data/sandwiches.png");
+  sides = loadImage("data/sides.png");
+  desserts = loadImage("data/desserts.png");
   /**/
 
   /*Init Pizza Images*/
-  chooseRecipie = loadImage("chooseRecipie.png");
-  createOwn = loadImage("createOwn.png");
-  smallPizza = loadImage("smallPizza.png.png");
-  mediumPizza = loadImage("mediumPizza.png.png");
-  largePizza = loadImage("largePizza.png.png");
+  chooseRecipie = loadImage("data/chooseRecipie.png");
+  createOwn = loadImage("data/createOwn.png");
+  smallPizza = loadImage("data/smallPizza.png.png");
+  mediumPizza = loadImage("data/mediumPizza.png.png");
+  largePizza = loadImage("data/largePizza.png.png");
   /**/
 
   /*Init. guarenteed buttons*/
